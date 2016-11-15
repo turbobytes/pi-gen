@@ -1,6 +1,6 @@
 locales less fbset sudo psmisc strace module-init-tools ed ncdu crda
 console-setup keyboard-configuration debconf-utils parted unzip
-build-essential manpages-dev python bash-completion gdb pkg-config v4l-utils
+manpages-dev python bash-completion pkg-config
 avahi-daemon
 lua5.1
 luajit
